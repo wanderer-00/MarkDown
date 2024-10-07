@@ -1,4 +1,4 @@
-# Блок схема [Документация](https://mermaid.js.org/syntax/flowchart.html)
+# [Блок схема](https://mermaid.js.org/syntax/flowchart.html)
 ```mermaid
 graph TD;
   A-->B;
@@ -6,7 +6,6 @@ graph TD;
   B-->D;
   C-->D;
 ```
-[Документация](https://mermaid.js.org/syntax/flowchart.html)
 
 # Диаграммы последовательности
 ```mermaid
