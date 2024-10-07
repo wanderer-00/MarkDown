@@ -9,8 +9,7 @@ graph TD;
 
 # [Круговая диаграмма](https://mermaid.js.org/syntax/pie.html)
 ```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
+showData
     title Площадь океанов
     "Тихий" : 50
     "Атлантический" : 26
