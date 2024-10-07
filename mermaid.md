@@ -17,6 +17,22 @@ pie showData
     "Северный" :  3
 ```
 
+# [Диаграмма GitGraph](https://mermaid.js.org/syntax/gitgraph.html)
+```mermaid
+gitGraph:
+    commit "Ashish"
+    branch newbranch
+    checkout newbranch
+    commit id:"1111"
+    commit tag:"test"
+    checkout main
+    commit type: HIGHLIGHT
+    commit
+    merge newbranch
+    commit
+    branch b2
+    commit
+```
 
 # [Диаграмма последовательности](https://mermaid.js.org/syntax/sequenceDiagram.html)
 ```mermaid
@@ -227,23 +243,6 @@ quadrantChart
     test_req5 - refines -> test_req6
     test_entity3 - verifies -> test_req5
     test_req <- copies - test_entity2
-```
-
-# [Диаграмма GitGraph](https://mermaid.js.org/syntax/gitgraph.html)
-```mermaid
-gitGraph:
-    commit "Ashish"
-    branch newbranch
-    checkout newbranch
-    commit id:"1111"
-    commit tag:"test"
-    checkout main
-    commit type: HIGHLIGHT
-    commit
-    merge newbranch
-    commit
-    branch b2
-    commit
 ```
 
 ---
