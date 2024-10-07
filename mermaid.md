@@ -229,6 +229,7 @@ quadrantChart
     test_req <- copies - test_entity2
 ```
 
+# [Диаграмма GitGraph](https://mermaid.js.org/syntax/gitgraph.html)
 ```mermaid
 gitGraph:
     commit "Ashish"
