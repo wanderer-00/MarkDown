@@ -1,6 +1,4 @@
 # MarkDown
-
-<script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl"></script>
 [Документация по интересным штукам в MD](https://docs.github.com/ru/repositories/working-with-files/using-files/working-with-non-code-files#3d-file-viewer)
 
 
@@ -133,6 +131,8 @@ solid cube_corner
 endsolid
 ```
 
+# 3D STL
+<script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl"></script>
 <script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=500"></script>
 
 О модерации 3D моделей
