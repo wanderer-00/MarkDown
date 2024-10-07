@@ -18,7 +18,7 @@ pie showData
 ```
 
 
-# [Диаграммы последовательности](https://mermaid.js.org/syntax/sequenceDiagram.html)
+# [Диаграмма последовательности](https://mermaid.js.org/syntax/sequenceDiagram.html)
 ```mermaid
 sequenceDiagram
     actor Alice
@@ -27,7 +27,7 @@ sequenceDiagram
     Bob->>Alice: Hi Alice
 ```
 
-# [Диаграммы классов](https://mermaid.js.org/syntax/classDiagram.html)
+# [Диаграмма классов](https://mermaid.js.org/syntax/classDiagram.html)
 ```mermaid
 ---
 title: Animal example
@@ -57,7 +57,7 @@ classDiagram
     }
 ```
 
-# [Диаграммы состояний](https://mermaid.js.org/syntax/stateDiagram.html)
+# [Диаграмма состояний](https://mermaid.js.org/syntax/stateDiagram.html)
 ```mermaid
 ---
 title: Simple sample
@@ -72,7 +72,7 @@ stateDiagram-v2
     Crash --> [*]
 ```
 
-# [Диаграммы отношений сущностей](https://mermaid.js.org/syntax/entityRelationshipDiagram.html)
+# [Диаграмма отношений сущностей](https://mermaid.js.org/syntax/entityRelationshipDiagram.html)
 ```mermaid
 erDiagram
     CUSTOMER ||--o{ ORDER : places
@@ -106,7 +106,7 @@ journey
       Sit down: 5: Me
 ```
 
-# [Диаграммы Ганта]()
+# [Диаграмма Ганта](https://mermaid.js.org/syntax/gantt.html)
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
