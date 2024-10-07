@@ -11,11 +11,11 @@ graph TD;
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
 pie showData
-    title Key elements in Product X
-    "Calcium" : 42.96
-    "Potassium" : 50.05
-    "Magnesium" : 10.01
-    "Iron" :  5
+    title Площадь океанов
+    "Тихий" : 50
+    "Атлантический" : 26
+    "Индийский" : 21
+    "Северный" :  3
 ```
 
 
