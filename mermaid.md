@@ -8,6 +8,16 @@ graph TD;
 ```
 [Документация](https://mermaid.js.org/syntax/flowchart.html)
 
+# Диаграммы последовательности
+```mermaid
+sequenceDiagram
+    actor Alice
+    actor Bob
+    Alice->>Bob: Hi Bob
+    Bob->>Alice: Hi Alice
+```
+    
+
 ```mermaid
 gitGraph:
     commit "Ashish"
