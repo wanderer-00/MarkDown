@@ -60,6 +60,27 @@ stateDiagram-v2
     Moving --> Crash
     Crash --> [*]
 ```
+
+# [Диаграммы отношений сущностей](https://mermaid.js.org/syntax/entityRelationshipDiagram.html)
+```mermaid
+erDiagram
+    CUSTOMER ||--o{ ORDER : places
+    CUSTOMER {
+        string name
+        string custNumber
+        string sector
+    }
+    ORDER ||--|{ LINE-ITEM : contains
+    ORDER {
+        int orderNumber
+        string deliveryAddress
+    }
+    LINE-ITEM {
+        string productCode
+        int quantity
+        float pricePerUnit
+    }
+```
     
 
 ```mermaid
