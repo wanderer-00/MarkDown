@@ -98,6 +98,7 @@ pie
 }
 ```
 
+# 3D STL
 ```stl
 solid cube_corner
   facet normal 0.0 -1.0 0.0
@@ -131,7 +132,6 @@ solid cube_corner
 endsolid
 ```
 
-# 3D STL
 <script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl"></script>
 <script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=500"></script>
 
