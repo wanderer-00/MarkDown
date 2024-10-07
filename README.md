@@ -1,6 +1,8 @@
 # MarkDown
 
 <script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl"></script>
+[,,ff](https://docs.github.com/ru/repositories/working-with-files/using-files/working-with-non-code-files#3d-file-viewer)
+
 
 ## Математическое выражение LaTeX
 $$
