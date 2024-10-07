@@ -7,7 +7,7 @@ graph TD;
   C-->D;
 ```
 
-# Диаграммы последовательности
+# [Диаграммы последовательности](https://mermaid.js.org/syntax/sequenceDiagram.html)
 ```mermaid
 sequenceDiagram
     actor Alice
