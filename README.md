@@ -12,6 +12,7 @@ d_{x + 1, y + 1} &\leftarrow d_{x + 1, y + 1} + 1
 \end{aligned}
 $$
 
+# mermaid
 ## Блок схема
 ```mermaid
 graph TD;
@@ -22,6 +23,7 @@ graph TD;
 ```
 [Документация](https://mermaid.js.org/syntax/flowchart.html)
 
+## 
 ```mermaid
 graph TD;
   A-->B;
@@ -29,7 +31,15 @@ graph TD;
   B-->D;
   C-->D;
 ```
-
+---
+```mermaid
+flowchart TD
+    A[Start] --> B{Is it?}
+    B -->|Yes| C[OK]
+    C --> D[Rethink]
+    D --> B
+    B ---->|No| E[End]
+```
 # Круговая диаграмма
 ```mermaid
 pie
