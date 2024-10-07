@@ -129,10 +129,10 @@ timeline
     section 17-20-ые века
         Industry 1.0 : Машины, Водная мельница, Паровой двигатель
         Industry 2.0 : Электричество, Двигатель внутреннего сгорания, Массовое производство
-        Industry 3.0 : Electronics, Computers, Automation
+        Industry 3.0 : Электроника, Компьютеры, Автоматизация
     section 21-ый век
-        Industry 4.0 : Internet, Robotics, Internet of Things
-        Industry 5.0 : Artificial intelligence, Big data, 3D printing
+        Industry 4.0 : Интернет, Роботизация, Интернет вещей
+        Industry 5.0 : Искусственный интеллект, Big Data, 3D печать
 ```
 
 # [Диаграмма Ганта](https://mermaid.js.org/syntax/gantt.html)
