@@ -27,11 +27,17 @@ graph TD;
 # Круговая диаграмма
 ```mermaid
 pie
-  title Key elements in Product X
-  "Calcium" : 42.96
-  "Potassium" : 50.05
-  "Magnesium" : 10.01
-  "Iron" : 5
+  title Возможности груговой диаграммы
+  "H" : 63
+  "O" : 26
+  "C" : 9
+  "N" : 0.58
+  "Ca" : 0.24
+  "P" : 0.14
+  "S" : 0.038
+  "Na" : 0.037
+  "K" : 0.033
+  "Cl" : 0.024
 ```
 
 
