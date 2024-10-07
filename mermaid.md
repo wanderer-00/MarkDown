@@ -122,15 +122,15 @@ journey
       Sit down: 5: Me
 ```
 
-# Хронология
+# [Хронология](https://mermaid.js.org/syntax/timeline.html)
 ```mermaid
 timeline
-    title Timeline of Industrial Revolution
-    section 17th-20th century
-        Industry 1.0 : Machinery, Water power, Steam <br>power
-        Industry 2.0 : Electricity, Internal combustion engine, Mass production
+    title Хронология индустриальной революции
+    section 17-20-ые века
+        Industry 1.0 : Машины, Водная мельница, Паровой двигатель
+        Industry 2.0 : Электричество, Двигатель внутреннего сгорания, Массовое производство
         Industry 3.0 : Electronics, Computers, Automation
-    section 21st century
+    section 21-ый век
         Industry 4.0 : Internet, Robotics, Internet of Things
         Industry 5.0 : Artificial intelligence, Big data, 3D printing
 ```
